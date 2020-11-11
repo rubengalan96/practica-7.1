@@ -1,0 +1,20 @@
+h2{
+    font-size: 3ch;
+    font-weight: bold;
+}
+
+ul.circulo{
+    list-style-type: circle;
+}
+
+ol.numero{
+    list-style-type: decimal;
+}
+
+ol.numeroromano{
+    list-style-type: upper-roman;
+}
+
+ol.letra{
+    list-style-type: lower-alpha;
+}
